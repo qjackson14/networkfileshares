@@ -8,7 +8,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Network Security Groups](https://www.youtube.com/watch?v=FpPgVQKf51Y)
+- ### [YouTube: Network File Shares & Permissions](https://www.youtube.com/watch?v=FpPgVQKf51Y)
 
 <h2>Environments and Technologies Used</h2>
 
