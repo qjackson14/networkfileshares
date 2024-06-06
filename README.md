@@ -27,4 +27,9 @@
 - Setup Folders & Access
 - Setup Users & Permissions
 
+<h2>Why are Network File Permissions Important:</h2>
+
+In a help desk role, managing network file share permissions is crucial for data security, compliance, and efficient resource use. Technicians ensure only authorized access, troubleshoot issues, and support users effectively. Proper permissions prevent data duplication and maintain system performance. During security incidents, help desk staff investigate and take corrective actions. Overall, file share permissions are vital for maintaining security, compliance, and resource management in a help desk environment.
+
+
 <h2>Deployment and Configuration Steps</h2>
